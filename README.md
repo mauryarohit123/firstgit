@@ -1,4 +1,4 @@
 # firstgit
 this is my first git
 <br>
-author rohit maurya
+author rohit csjmu
